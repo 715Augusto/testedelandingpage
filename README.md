@@ -15,6 +15,26 @@
         <li>Rafael Barros</li>
         <li>Daniel Patrick</li>
       </ul>
+     <h2>Construção do Projeto</h2>
+      <ul>
+        <li>Ler documentação</li>
+        <li>Escolher modelo de exemplo</li>
+        <li>Definir a ferramenta a ser exposta</li>
+        <li>Definição de Cores</li>
+        <li>Separação de atividades</li>
+        <li>Seleção de imagens</li>
+        <li>Apresentação do projeto</li>
+      </ul>
+     <h2>Ferramentas Utilizadas</h2>
+      <ul>
+        <li>Google Chrome</li>
+        <li>Notepad++</li>
+        <li>VisualStudio</li>
+        <li>Intellij IDEA</li>
+        <li>GitHub</li>
+      </ul>
+      
+      
   </body>
 
 </html>
