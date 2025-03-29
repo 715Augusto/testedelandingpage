@@ -33,7 +33,9 @@
         <li>Intellij IDEA</li>
         <li>GitHub</li>
       </ul>
-      
+
+      <h2>Este é o resultado Final</h2>
+      <p> https://715augusto.github.io/testedelandingpage/landingpage.html </p>
       
   </body>
 
